@@ -30,7 +30,7 @@ The News Posting web page is designed to display news articles and user informat
 
 ## Live Demo
 
-[Live Demo Link](https://your-live-demo-link.com)
+[Live Demo Link](https://media-quary2.vercel.app/)
 
 ## How to Use
 
